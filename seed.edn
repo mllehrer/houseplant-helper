@@ -1,14 +1,14 @@
 {:epipremnum-aureum {:common-names ["Devil's Ivy" "Pothos"]
-                     :cadence 1
+                     :cadence 7
                      :light "shade"}
  :philodendron-cordatum {:common-names ["Heartleaf Philodendron" "Philodendron Brazil" "Philodendron Brasil"]
-                         :cadence 2
+                         :cadence 4
                          :light "shade"}
  :scindapsus-pictus {:common-names ["Silver Pothos" "Satin Pothos"]
-                     :cadence 1
+                     :cadence 7
                      :light "part sun"}
  :dracaena-fragrans {:common-names ["Corn Plant"]
-                     :cadence 1
+                     :cadence 7
                      :light "part shade"}
  :nephrolepis-exaltata {:common-names ["Boston Fern"]
                         :cadence 3
